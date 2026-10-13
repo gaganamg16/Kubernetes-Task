@@ -1,10 +1,10 @@
 # Kubernetes Deployment - Task 1
 
-## Overview
+### Overview
 
 This project demonstrates the deployment and exposure of a web application using Kubernetes and Minikube.
 
-## Technologies Used
+### Technologies Used
 
 - Kubernetes
 - Minikube
@@ -14,7 +14,7 @@ This project demonstrates the deployment and exposure of a web application using
 - YAML
 - Windows PowerShell
 
-## Project Structure
+### Project Structure
 
 ```text
 Kubernetes-Task/
